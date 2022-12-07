@@ -1,5 +1,5 @@
-<H1 align="center;">👋Welcome, I am Loránd!👋</H1>
-<H2 align="center;">My stats</H2>
+<h1 align="center">👋Welcome, I am Loránd!👋</h1>
+<h2 align="center">My stats</h2>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KeLorand&count_private=true&theme=dark)](https://git.io/streak-stats)
